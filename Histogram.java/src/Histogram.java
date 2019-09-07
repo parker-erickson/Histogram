@@ -4,23 +4,6 @@ import java.util.Scanner;
 
 public class Histogram {
 
-    /*
-     * The
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     *
-     */
     private static void bubbleSort(ArrayList<Integer> AL, char[] arr){
         int size = arr.length;
 
